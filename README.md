@@ -1,0 +1,2 @@
+# Iris-Data-PCA
+This code uses the pandas library to load the IRIS dataset, separates the features and labels, and then creates the scatter plot matrix and 3D scatter plot using matplotlib. It then performs PCA on the dataset and extracts the explained variance ratio for each principal component, which is visualized in a bar plot. Finally, it calculates the correlation and covariance matrices using the corr and cov methods of the feature matrix.
